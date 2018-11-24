@@ -7,6 +7,7 @@ A deep dive into a massive dataset on wine reviews.
 
 ### Features
 1. Kaggle provided dataset - [wine reviews](https://www.kaggle.com/zynicide/wine-reviews)
+  - Download the dataset and run the .py or .ipynb file on the local file 
 2. Working with Python to solve statistical problems
 
 ### Questions Asked
